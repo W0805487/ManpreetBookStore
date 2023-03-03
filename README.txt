@@ -3,7 +3,7 @@
 started assignment 2 in-class on the lab computer
 Set up the ASP>NET MVC
 using 1.3 core
-HTTPS enabled, individual account authenticatio..
+HTTPS enabled, individual account authentication..
 no razor..
 
 Reviewed the area folders..
@@ -23,4 +23,8 @@ tested..
 Reviewed the route patteren in startup.cs
 
 Created Github repository
+
+2023-03-03
+1516
+confirmed the repo is built...  tested it...
 
