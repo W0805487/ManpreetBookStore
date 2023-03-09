@@ -30,3 +30,17 @@ confirmed the repo is built...  tested it...
 
 created README.md file..
 
+2023-03-09
+
+select LUX theme from the bootswatch.com
+renamed the older bootstrap file.
+added new bootstrap.css file in the lib >bootstrap > css > bootstrap.css
+
+changes in layout.cshtml file..
+renamed file bootstrap.min.css to bootstrap.css
+nav class from nav-bar light to navvar- dark to the big primary
+remove text dark from line 23..
+
+tested the app...
+it run successfully...
+
