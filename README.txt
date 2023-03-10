@@ -50,3 +50,9 @@ Modified a navigation bar...
 write Books at the place of Home in line 23 in Layout.cshtml file.
 
 make changes in README.md file...
+
+
+1904
+Added dropdown in Layout.cshtml file...
+
+remove text-dark in Loginpartial.cshtml file from line 20 and 22
