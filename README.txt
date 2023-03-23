@@ -56,3 +56,7 @@ make changes in README.md file...
 Added dropdown in Layout.cshtml file...
 
 remove text-dark in Loginpartial.cshtml file from line 20 and 23.
+
+2023-03-23
+1500
+corrected my spelling errors in project name ManpreetBooks.Models1
