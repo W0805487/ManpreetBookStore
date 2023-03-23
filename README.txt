@@ -64,3 +64,14 @@ corrected my spelling errors in project name ManpreetBooks.Models1
 
 1910
 Copy the data folder and paste to .DataAccess project.
+
+1932
+
+Move Models in ManpreetBook.Models
+Added project references....
+Rename modelsfolder to ViewModels...
+
+
+updated Error.cshtml
+updated startup.cs file....
+Updated HomeController.cs
