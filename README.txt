@@ -60,3 +60,7 @@ remove text-dark in Loginpartial.cshtml file from line 20 and 23.
 2023-03-23
 1500
 corrected my spelling errors in project name ManpreetBooks.Models1
+
+
+1910
+Copy the data folder and paste to .DataAccess project.
