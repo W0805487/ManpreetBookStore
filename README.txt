@@ -85,3 +85,10 @@ Change route in startup.cs file.
 2029
 
 Edit the HomeController.cs file.
+
+2043
+added a new Admin area..
+Added the proper view file and delete the Data and Models folder..
+Deleted the controller folder....
+
+Part 1 is done...
