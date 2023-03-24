@@ -92,3 +92,20 @@ Added the proper view file and delete the Data and Models folder..
 Deleted the controller folder....
 
 Part 1 is done...
+
+2023-03-24
+1551
+
+Start assignment 2 part 2
+
+Update the Database name in appsettings.json
+Database= ManpreetBookStore
+
+
+Added migration
+add-migration adddefaultIdentityMigration (this is wrong)
+new migration file namee= manpreetBookStore.DataAccess
+
+1554
+update database
+got ERROR......
