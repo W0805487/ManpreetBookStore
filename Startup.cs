@@ -60,10 +60,15 @@ namespace ManpreetBookStore
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
+                endpoints.MapAreaControllerRoute(
+        name: "defaultArea",
+        areaName: "Customer",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
+
+               // endpoints.MapControllerRoute(
+                   // name: "default",
                     // Here is the default pattern
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                   // pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

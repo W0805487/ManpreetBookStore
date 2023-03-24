@@ -75,3 +75,9 @@ Rename modelsfolder to ViewModels...
 updated Error.cshtml
 updated startup.cs file....
 Updated HomeController.cs
+
+
+2025
+
+Added Customer in Area file
+Change route in startup.cs file.

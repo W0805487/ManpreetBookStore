@@ -11,11 +11,18 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.27" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.27" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.27" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ManpreetBooks.DataAccess\ManpreetBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ManpreetBooks.Models1\ManpreetBooks.Models1.csproj" />
+    <ProjectReference Include="..\ManpreetBooks.Utility\ManpreetBooks.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Customer\Views\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
