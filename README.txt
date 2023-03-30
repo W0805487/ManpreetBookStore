@@ -106,6 +106,16 @@ Added migration
 add-migration adddefaultIdentityMigration (this is wrong)
 new migration file namee= manpreetBookStore.DataAccess
 
+MIGRATION FILES
+20230324195020_AddDefaultIdentityMigration.cs
+
 1554
 update database
 got ERROR......
+
+
+2023-03-30
+1701
+ERROR correct...
+Update database successfully....
+
