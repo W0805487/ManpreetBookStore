@@ -127,3 +127,7 @@ migration
 update database 
 show categories table inSQL server Object Explorer....
 
+2051
+Create Repository folder in ManpreetBooks.DataAccess
+create IRepository folder in Repository Folder
+Created IRepository.cs in IRepository folder.
