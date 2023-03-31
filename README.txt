@@ -108,6 +108,7 @@ new migration file namee= manpreetBookStore.DataAccess
 
 MIGRATION FILES
 20230324195020_AddDefaultIdentityMigration.cs
+20230331004007_AddCategoryToDb.cs
 
 1554
 update database
@@ -137,3 +138,7 @@ Created IRepository.cs in IRepository folder.
 created Interface in IRepository folder
 created class in Repository folder..
 Modified them with given instructions...
+
+2110
+Created new interface named ISP_Call.cs in IRepository.
+
