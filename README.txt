@@ -140,5 +140,9 @@ created class in Repository folder..
 Modified them with given instructions...
 
 2110
-Created new interface named ISP_Call.cs in IRepository.
+Created new interface named ISP_Call.cs in IRepository folder.
+Created new class named SP_Call.cs in Repository folder... 
+
+2122
+Created new interface named IUnitOfWork.cs in IRepository folder...
 
