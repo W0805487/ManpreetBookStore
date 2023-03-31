@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
+using ManpreetBooks.DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -32,6 +33,7 @@ namespace ManpreetBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>()//removed  (options => options.SignIn.RequireConfirmedAccount = true
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<UnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

@@ -145,4 +145,20 @@ Created new class named SP_Call.cs in Repository folder...
 
 2122
 Created new interface named IUnitOfWork.cs in IRepository folder...
+modified interface According to instructions
+
+2132
+Created new class named UnitOfWork.cs in Repository folder..
+modified class According to instructions....
+
+2136
+
+Modified configurationServices method in startup.cs file..
+
+No errors...
+
+Project run SUCCESSFULLY.....
+
+
+
 
