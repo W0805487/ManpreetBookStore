@@ -131,3 +131,9 @@ show categories table inSQL server Object Explorer....
 Create Repository folder in ManpreetBooks.DataAccess
 create IRepository folder in Repository Folder
 Created IRepository.cs in IRepository folder.
+
+2104
+
+created Interface in IRepository folder
+created class in Repository folder..
+Modified them with given instructions...
